@@ -4,6 +4,10 @@
 
 Made with Unreal Engine.
 
+## Where to play
+
+// TODO
+
 ## How to play
 
 Both players are supposed to be playing from the same keyboard. 
@@ -16,7 +20,9 @@ Specific controls can be found in the game's help menu.
 
 ## Screenshots
 
-// TODO
+<img src="Screenshots/MainMenu.png" alt="Main menu" width="750"/>
+<img src="Screenshots/Gameplay.png" alt="Gameplay" width="750"/>
+<img src="Screenshots/Pause.png" alt="Pause" width="750"/>
 
 ## Disclamer
 
