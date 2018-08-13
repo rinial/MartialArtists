@@ -1,16 +1,18 @@
 # Martial Artists
 
-**Martial Artists** is a 2.5D platformer fighting game for two players.
-
-// TODO
+**Martial Artists** is a fast-paced fighting platformer. Test your friend's swordsmanship skill on a local arena!
 
 Made with Unreal Engine.
 
 ## How to play
 
-The game is meant to be played with a mouse and a keyboard, though controllers are also supported.
+Both players are supposed to be playing from the same keyboard. 
 
-// TODO
+Each one is in control of one warrior with a lamp on the screen. These warriors are able to move, jump and use different combat abilities. They can also turn their lamps off to hide in the darkness.
+
+Specific controls can be found in the game's help menu.
+
+**The goal:** defeat the enemy player enough times to deplet all of his or her lives.
 
 ## Screenshots
 
@@ -18,7 +20,7 @@ The game is meant to be played with a mouse and a keyboard, though controllers a
 
 ## Disclamer
 
-The game was written as a university project in 2018. It isn't currently updated or maintained.
+The game was written as a university project in 2016. It isn't currently updated or maintained.
 
 ## License
 
