@@ -24,6 +24,10 @@ Specific controls can be found in the game's help menu.
 <img src="Screenshots/Gameplay.png" alt="Gameplay" width="750"/>
 <img src="Screenshots/Pause.png" alt="Pause" width="750"/>
 
+## Influencers
+
+* [Samurai Gunn](https://store.steampowered.com/app/239090/Samurai_Gunn/)
+
 ## Disclamer
 
 The game was written as a university project in 2016. It isn't currently updated or maintained.
