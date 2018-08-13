@@ -6,7 +6,14 @@ Made with Unreal Engine.
 
 ## Where to play
 
-// TODO
+You can download an archive with an executable of the game for Windows from Google Drive: [64-bit](https://drive.google.com/open?id=1u9sWkyOdb-Jy6Vmq6PkmllhRK818aBpG), [32-bit](https://drive.google.com/open?id=1tM7lXIQ81q3eTxbGhGiKEoRll8jLGMls).  
+Or you can build the game on your own PC, following the instructions below.
+
+## Building
+
+1.  `git clone https://github.com/Ziririn/MartialArtists.git`
+2.  Open the project in the Unreal editor.
+3.  Choose **File - Package Project - [*PlatformName*]** and select the desired build folder.
 
 ## How to play
 
