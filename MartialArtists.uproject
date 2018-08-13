@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.9",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MartialArtists",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Paper2D",
+				"Engine"
+			]
+		}
+	]
+}
